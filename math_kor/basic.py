@@ -8,9 +8,17 @@ def 더하기(a,b):
     """
     return 0
 
+
 def 곱하기(a,b):
     """Returns the multply of a and b
     >>> 곱하기(1,2)
     2
     """
     return a*b
+
+def 빼기(a,b):
+    """Returns the sum of a and b
+    >>> 빼기(3,2)
+    1
+    """
+    return a - b
