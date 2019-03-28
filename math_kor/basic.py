@@ -13,4 +13,4 @@ def 곱하기(a,b):
     >>> 곱하기(1,2)
     2
     """
-    return 0
+    return a*b
