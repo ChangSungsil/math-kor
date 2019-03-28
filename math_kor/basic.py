@@ -8,3 +8,9 @@ def 더하기(a,b):
     """
     return 0
 
+def 곱하기(a,b):
+    """Returns the multply of a and b
+    >>> 곱하기(1,2)
+    2
+    """
+    return 0
